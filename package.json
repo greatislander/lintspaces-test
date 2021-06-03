@@ -1,0 +1,20 @@
+{
+  "name": "lintspaces-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "fluid-lint-all"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greatislander/lintspaces-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/greatislander/lintspaces-test/issues"
+  },
+  "homepage": "https://github.com/greatislander/lintspaces-test#readme"
+}
