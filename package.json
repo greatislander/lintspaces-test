@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/greatislander/lintspaces-test/issues"
   },
-  "homepage": "https://github.com/greatislander/lintspaces-test#readme"
+  "homepage": "https://github.com/greatislander/lintspaces-test#readme",
+  "devDependencies": {
+    "fluid-lint-all": "^1.1.1"
+  }
 }
